@@ -5,7 +5,7 @@ This license is intended to who does not want to care about the license nor what
 
 ## Sample
 ```
-(C) 2016 My2ndAngelic IDGAFPL.
+(C) 2016 My2ndAngelic.
 
 I don't give a fuck about how this document will be used. Everything will be allowed, including changing the name, citing wrongly, claiming ownership and destroying the computer. You are allowed to do everything as long as:
 
