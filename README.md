@@ -24,4 +24,4 @@ This part is a part of a part of a part of a part of the stupidest thing I have 
 
 ## License
 
-IDGAFPL
+I DON'T GIVE A FUCK PUBLIC LICENSE.
