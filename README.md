@@ -21,7 +21,7 @@ I don't give a fuck about how this will be used. Everything will be allowed, inc
 As long as you agree with these term, you are free to do fucking anything, whether legal or not legal in your country, because I don't give a fuck. If you don't agree with my term, fuck off.
 ```
 
-## Short version (for those who wants simpler things)
+## Short version (for those who want simpler things)
 ```
 (C) 2016 My2ndAngelic.
 
