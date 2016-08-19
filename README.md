@@ -31,6 +31,8 @@ I don't give a fuck about you as long as:
 1. You don't give a fuck
 2. Both of us will give no fuck about each other.
 3. If I do something with this, you agree that you will give no fuck about it.
+
+That's all, now do what the fuck you want.
 ```
 
 ## Some explanation
