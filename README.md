@@ -48,7 +48,7 @@ Con: They (users) can do what the fuck they want, as long as both parties agree 
 ### For User (meaning 'a man who use the work from original creator, developer')
 This license allow you to do what they want with these stuffs, including copying, reproducing and claiming that this is you work without his consent, even using it commercially is allowed. There is no plagiarism as long as the work is licensed under this IDGAFPL.
 
-However, as long as the you agree that you won't do ANYTHING the original developer, this is fine in any case. For example, if you sue the creator because he release a forked project of his work and it damage you, either financially or non-financially, you simply violate the license.
+However, as long as the you agree that you won't do ANYTHING the original developer, this is fine in any case. For example, if you sue the creator because he releases a forked project of his work and it damages you, either financially or non-financially, you simply violate the license.
 
 Pro: You can do what the fuck you want, if you want to claim that you create this, it is also fine. No plagiarism
 
