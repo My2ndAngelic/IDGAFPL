@@ -63,7 +63,7 @@ Why would you ask this? I don't give a fuck. Do what the fuck you want.
 ## What is this?
 This part is a part of a part of a part of a part of the stupidest thing I have ever made. This may make your life easier by telling the other to fuck off.
 
-##FAQ (fucking answered question)
+## FAQ (fucking answered question)
 - Where is "we"?
   - I don't give a fuck about that.
 - How can the license protect me?
